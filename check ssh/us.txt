@@ -1,0 +1,445 @@
+166.148.202.92|admin|12wsDE34|United States(US)|Atlanta|
+104.238.83.196|nobody|nobody|United States(US)|Scottsdale|
+66.220.244.211|support|support|United States(US)|Bridgewater Corners|
+166.130.36.252|sconsole|12345|United States(US)|Atlanta|
+166.255.11.159|username|password|United States(US)|San Diego|
+166.139.127.238|username|password|United States(US)|Atlanta|
+50.1.91.162|support|support|United States(US)|Fort Bragg|
+170.250.196.246|support|support|United States(US)|Palm Beach Gardens|
+24.51.47.8|root|Deadstar!#%|United States(US)|Alma|
+66.220.249.251|support|support|United States(US)|Mount Holly|
+64.184.100.178|user|user|United States(US)|Kendallville|
+50.109.95.180|support|support|United States(US)|Mackinaw|
+166.141.104.5|username|password|United States(US)|Atlanta|
+206.217.1.9|lindsay|lastmile|United States(US)|Rock Springs|
+172.78.251.234|support|support|United States(US)|Wolcottville|
+166.248.157.146|username|password|United States(US)|San Diego|
+50.36.167.216|support|support|United States(US)|Saline|
+66.220.230.75|support|support|United States(US)|Cuttingsville|
+97.77.157.242|root|@#$%^&*!()|United States(US)|El Paso|
+204.74.8.193|support|support|United States(US)|Buffalo|
+166.130.5.252|username|password|United States(US)|Atlanta|
+107.85.235.239|test|test|United States(US)|Arlington|
+166.156.175.66|sshd||United States(US)|Alton|
+166.141.57.153|admin|admin|United States(US)|Atlanta|
+104.137.214.247|support|support|United States(US)|Indianapolis|
+166.130.9.202|username|password|United States(US)|Atlanta|
+50.82.223.168|support|support|United States(US)|Clinton|
+69.131.31.20|support|support|United States(US)|Kingsland|
+166.140.199.138|username|password|United States(US)|Atlanta|
+166.148.184.45|username|password|United States(US)|Atlanta|
+166.159.161.226|username|password|United States(US)|Alton|
+104.136.140.15|support|support159.65.226.101|United States(US)|Merritt Island|
+206.74.199.50|manager|friend|United States(US)|State Road|
+166.148.42.169|username|password|United States(US)|Atlanta|
+166.143.13.233|username|password|United States(US)|Atlanta|
+68.167.159.218|root|12345|United States(US)|Glendale|
+107.80.15.97|username|password|United States(US)|Arlington|
+74.212.161.202|admin|admin|United States(US)|Opa Locka|
+66.220.232.89|support|support|United States(US)|Woodstock|
+64.184.41.192|user|user|United States(US)|Cromwell|
+166.148.72.118|username|password|United States(US)|Atlanta|
+198.46.141.99|ftpuser|test123|United States(US)|Buffalo|
+166.165.238.55|username|password|United States(US)|Alton|
+166.142.252.210|sshd||United States(US)|Atlanta|
+166.139.69.70|sconsole|12345|United States(US)|Atlanta|
+173.239.90.75|ubnt|ubnt|United States(US)|Bunkerville|
+162.216.232.10|admin||United States(US)|Vicksburg|
+66.220.240.232|support|support|United States(US)|Killington|
+66.60.68.66|ubnt|ubnt|United States(US)|Dallas|
+69.38.209.114|admin|admin|United States(US)|San Francisco|
+166.157.228.68|username|password|United States(US)|Alton|
+162.247.147.91|admin|0l0ctyQh243O63uD|United States(US)|Hemlock|
+50.196.252.161|PlcmSpIp|PlcmSpIp|United States(US)|Elk Grove|
+66.220.230.191|support|support|United States(US)|Cuttingsville|
+166.159.178.243|username|password|United States(US)|Alton|
+174.20.31.203|support|support|United States(US)|Minneapolis|
+192.182.174.156|support|support|United States(US)|Rockbridge|
+66.220.239.65|support|support|United States(US)|Wallingford|
+50.48.167.7|support|support|United States(US)|Rochester|
+50.204.225.2|ubnt|ubnt|United States(US)|Newport|
+66.255.245.82|root|@#$%^&*!()|United States(US)|Hopkinsville|
+166.148.70.150|username|password|United States(US)|Atlanta|
+166.250.239.125|username|password|United States(US)|San Diego|
+174.18.118.61|support|support|United States(US)|Bunkerville|
+45.52.238.255|support|support|United States(US)|Huntertown|
+66.175.167.55|support|support|United States(US)|Harrisville|
+166.139.172.65|username|password|United States(US)|Atlanta|
+166.159.178.189|username|password|United States(US)|Alton|
+166.142.15.67|test|test|United States(US)|Atlanta|
+166.250.37.71|username|password|United States(US)|San Diego|
+166.148.72.108|username|password|United States(US)|Atlanta|
+166.154.45.25|username|password|United States(US)|Atlanta|
+69.130.99.65|support|support|United States(US)|Quincy|
+216.93.240.250|public|public|United States(US)|Somerville|
+184.60.112.26|support|support|United States(US)|Blue Ridge|
+141.158.223.104|support|support|United States(US)|Johnstown|
+69.21.156.106|support|support|United States(US)|Antioch|
+108.170.108.155|mailman|mailman|United States(US)|Fairfield|
+195.21.141.52|monitor|monitor|United States(US)|New York|
+50.0.155.23|support|support|United States(US)|Mendocino|
+64.130.173.249|ubnt|ubnt|United States(US)|Glasgow|
+162.247.146.230|admin|0l0ctyQh243O63uD|United States(US)|Hemlock|
+142.254.117.37|support|support|United States(US)|Fort Bragg|
+64.191.138.158|support|support|United States(US)|Lexington|
+50.0.156.74|support|support|United States(US)|Fort Bragg|
+166.150.70.211|username|password|United States(US)|Atlanta|
+166.130.40.191|sshd||United States(US)|Atlanta|
+216.47.61.98|support|support|United States(US)|Thompson Falls|
+50.207.119.14|admin|default|United States(US)|Dundalk|
+136.228.161.27|admin|admin|United States(US)|Nashua|
+192.182.160.54|support|support|United States(US)|Ashville|
+66.166.125.229|root|12345|United States(US)|Oxnard|
+50.1.90.35|support|support|United States(US)|Fort Bragg|
+64.184.39.184|user|user|United States(US)|Kimmell|
+69.131.14.204|support|support|United States(US)|Kingsland|
+64.77.244.139|tester|tester|United States(US)|Oak City|
+166.140.199.94|username|password|United States(US)|Atlanta|
+69.21.145.81|support|support|United States(US)|Johnson Creek|
+166.130.80.208|username|password|United States(US)|Atlanta|
+142.254.117.85|support|support|United States(US)|Fort Bragg|
+108.170.108.157|mailman|mailman|United States(US)|Fairfield|
+64.27.236.114|support|support|United States(US)|Vienna|
+206.127.140.199|admin|default|United States(US)|Beaver|
+50.50.106.174|support|support|United States(US)|Sun Prairie|
+155.254.9.252|system|OkwKcECs8qJP2Z|United States(US)|Whitehall|
+166.130.60.99|username|password|United States(US)|Atlanta|
+174.23.155.157|support|support|United States(US)|South Jordan|
+50.1.90.54|support|support|United States(US)|Fort Bragg|
+50.122.10.35|support|support|United States(US)|Durham|
+67.22.11.123|admin|1234|United States(US)|Marenisco|
+155.254.9.55|system|OkwKcECs8qJP2Z|United States(US)|Cardwell|
+166.130.105.224|username|password|United States(US)|Atlanta|
+166.254.106.103|username|password|United States(US)|San Diego|
+208.180.217.164|admin|admin|United States(US)|Lubbock|
+166.143.59.227|username|password|United States(US)|Atlanta|
+50.1.90.29|support|support|United States(US)|Fort Bragg|
+69.136.107.203|guest|guest|United States(US)|Jersey City|
+166.143.59.226|username|password|United States(US)|Atlanta|
+166.142.240.51|username|password|United States(US)|Atlanta|
+47.26.71.151|support|support|United States(US)|Englewood|
+166.142.15.65|test|test|United States(US)|Atlanta|
+75.100.42.98|support|support|United States(US)|Verona|
+166.149.124.21|service|service|United States(US)|Atlanta|
+216.240.71.133|support|support|United States(US)|Simpson|
+166.130.3.42|username|password|United States(US)|Atlanta|
+108.58.167.30|admin|admin|United States(US)|Paterson|
+108.162.28.6|admin|admin|United States(US)|Bergenfield|
+166.142.16.171|username|password|United States(US)|Atlanta|
+104.169.87.125|support|support|United States(US)|Lynx|
+174.20.55.242|support|support|United States(US)|Plymouth|
+216.47.56.92|support|support|United States(US)|Thompson Falls|
+166.148.184.46|username|password|United States(US)|Atlanta|
+166.157.228.67|username|password|United States(US)|Alton|
+97.71.120.146|admin|default|United States(US)|Rochester|
+172.87.189.245|support|support|United States(US)|Richardson|
+66.220.240.109|support|support|United States(US)|Killington|
+166.148.198.15|username|password|United States(US)|Atlanta|
+66.220.250.28|support|support|United States(US)|Cuttingsville|
+166.249.9.59|username|password|United States(US)|San Diego|
+69.193.186.100|ubnt|ubnt|United States(US)|Lynbrook|
+166.250.74.17|username|password|United States(US)|San Diego|
+166.168.145.20|username|password|United States(US)|Alton|
+66.187.177.18|PlcmSpIp|PlcmSpIp|United States(US)|Atlanta|
+166.130.29.194|admin|admin|United States(US)|Atlanta|
+162.216.232.129|admin||United States(US)|Vicksburg|
+166.154.122.165|username|password|United States(US)|Atlanta|
+166.130.154.121|username|password|United States(US)|Atlanta|
+166.168.202.194|username|password|United States(US)|Alton|
+45.52.43.106|support|support|United States(US)|Belle Plaine|
+66.220.237.195|support|support|United States(US)|East Corinth|
+63.228.77.21|support|support|United States(US)|Arvada|
+72.229.54.113|ubnt|ubnt|United States(US)|New York|
+69.131.10.75|support|support|United States(US)|Saint Marys|
+166.155.169.139|username|password|United States(US)|Atlanta|
+166.154.101.164|username|password|United States(US)|Atlanta|
+67.100.109.124|root|password|United States(US)|New York|
+50.91.118.110|support|support|United States(US)|Clinton|
+166.143.14.156|username|password|United States(US)|Atlanta|
+108.2.205.10|monitor|monitor|United States(US)|Willow Grove|
+166.168.201.197|username|password|United States(US)|Alton|
+50.232.30.177|ftp|ftp|United States(US)|Baytown|
+166.251.33.188|username|password|United States(US)|San Diego|
+166.141.121.94|username|password|United States(US)|Atlanta|
+166.248.235.71|username|password|United States(US)|San Diego|
+166.142.251.72|username|password|United States(US)|Atlanta|
+24.249.199.26|support|support24.249.199.19|United States(US)|Destin|
+50.48.185.247|support|support|United States(US)|Dansville|
+166.159.31.208|username|password|United States(US)|Alton|
+184.105.133.250|service|service42|United States(US)|Gilroy|
+166.148.184.42|username|password|United States(US)|Atlanta|
+166.130.4.37|username|password|United States(US)|Atlanta|
+104.169.131.170|support|support|United States(US)|Jackson|
+166.155.169.140|username|password|United States(US)|Atlanta|
+63.237.124.210|admin|default|United States(US)|Minneapolis|
+166.130.58.69|username|password|United States(US)|Atlanta|
+166.148.70.149|username|password|United States(US)|Atlanta|
+166.156.175.25|username|password|United States(US)|Alton|
+166.254.106.98|username|password|United States(US)|San Diego|
+24.140.0.78|installer|installer|United States(US)|Massillon|
+45.74.82.235|support|support|United States(US)|Miami|
+209.134.44.94|support|support|United States(US)|Hartland|
+184.74.151.10|admin|admin|United States(US)|Brooklyn|
+166.150.200.9|username|password|United States(US)|Atlanta|
+166.150.200.5|username|password|United States(US)|Atlanta|
+66.220.255.91|support|support|United States(US)|Pawlet|
+184.101.140.55|support|support|United States(US)|Prescott Valley|
+66.76.106.13|installer|installer|United States(US)|Tyler|
+207.59.175.8|root|admin|United States(US)|Knoxville|
+64.37.29.228|support|support|United States(US)|Hugo|
+8.40.56.141|root|@#$%^&*!|United States(US)|Crumpler|
+166.249.150.6|sconsole|12345|United States(US)|San Diego|
+166.139.123.129|username|password|United States(US)|Atlanta|
+198.46.141.100|ftpuser|test123|United States(US)|Buffalo|
+50.207.25.117|operator|operator|United States(US)|Alpharetta|
+198.46.141.101|ftpuser|test123|United States(US)|Buffalo|
+50.106.227.114|admin|admin|United States(US)|Maroa|
+166.148.42.167|username|password|United States(US)|Atlanta|
+166.154.101.168|username|password|United States(US)|Atlanta|
+166.141.105.238|username|password|United States(US)|Atlanta|
+166.161.28.154|username|password|United States(US)|Alton|
+207.59.175.5|admin|admin|United States(US)|Knoxville|
+64.184.101.114|user|user|United States(US)|Kendallville|
+104.137.200.37|support|support|United States(US)|Indianapolis|
+166.152.254.167|test|test|United States(US)|Atlanta|
+173.197.172.173|admin|default|United States(US)|Anaheim|
+67.100.110.168|root|12345|United States(US)|New York|
+142.54.81.234|root|@#$%^&*!|United States(US)|Fort Bragg|
+50.49.159.217|support|support|United States(US)|Penfield|
+166.139.32.254|root|root|United States(US)|Atlanta|
+66.220.225.177|support|support|United States(US)|Cuttingsville|
+68.238.55.162|root|12345|United States(US)|Hampton|
+173.11.238.172|admin|admin|United States(US)|Houston|
+64.7.22.204|root|12345|United States(US)|New York|
+166.149.124.12|service|service|United States(US)|Atlanta|
+216.240.89.79|support|support|United States(US)|Herod|
+69.130.67.253|support|support|United States(US)|Corinna|
+155.254.9.106|system|OkwKcECs8qJP2Z|United States(US)|Cardwell|
+159.65.226.101|git|git|United States(US)|North Bergen|
+166.140.199.111|username|password|United States(US)|Atlanta|
+50.0.156.229|support|support|United States(US)|Fort Bragg|
+75.167.183.20|support|support|United States(US)|Boise|
+166.154.250.137|username|password|United States(US)|Atlanta|
+198.46.141.102|ftpuser|test123|United States(US)|Buffalo|
+?129.18.167.230|admin|admin|United States(US)|Osage Beach|
+24.247.179.135|support|support|United States(US)|Grand Haven|
+66.220.244.239|support|support|United States(US)|Bridgewater Corners|
+166.249.9.58|username|password|United States(US)|San Diego|
+67.102.158.42|root|123456|United States(US)|Jonesboro|
+166.148.184.44|username|password|United States(US)|Atlanta|
+166.148.72.115|username|password|United States(US)|Atlanta|
+142.254.109.89|support|support|United States(US)|Santa Cruz|
+50.111.11.242|support|support|United States(US)|Durham|
+166.150.200.8|username|password|United States(US)|Atlanta|
+166.130.13.169|ubnt|ubnt|United States(US)|Atlanta|
+166.154.101.166|username|password|United States(US)|Atlanta|
+75.164.135.78|support|support|United States(US)|Portland|
+75.168.201.58|support|support|United States(US)|Minneapolis|
+66.220.237.63|support|support|United States(US)|East Corinth|
+166.255.31.25|username|password|United States(US)|San Diego|
+75.114.228.90|support|support|United States(US)|Farmington|
+97.68.40.62|admin|default|United States(US)|Deland|
+64.184.41.155|user|user|United States(US)|Cromwell|
+96.247.139.38|support|support|United States(US)|Bellefonte|
+50.236.46.179|root|@#$%^&*!()|United States(US)|Clovis|
+64.27.230.212|support|support|United States(US)|Junction|
+166.151.98.7|username|password|United States(US)|Atlanta|
+50.247.202.129|ftp|ftp|United States(US)|Burlington|
+50.124.113.62|support|support|United States(US)|Colby|
+166.180.193.223|username|password|United States(US)|Alton|
+170.250.42.125|admin|admin|United States(US)|Miami|
+209.134.40.61|support|support|United States(US)|Middletown Springs|
+207.138.105.250|support|support|United States(US)|Eldorado|
+72.240.36.132|root|@#$%^&*!|United States(US)|Toledo|
+66.80.16.34|admin|password|United States(US)|New York|
+166.143.14.183|username|password|United States(US)|Atlanta|
+166.149.99.212|username|password|United States(US)|Atlanta|
+198.46.141.98|ftpuser|test123|United States(US)|Buffalo|
+64.184.37.46|user|user|United States(US)|Kendallville|
+50.106.179.210|support|support|United States(US)|Hurricane|
+66.220.235.126|support|support|United States(US)|Wallingford|
+166.130.87.67|username|password|United States(US)|Atlanta|
+166.248.126.12|username|password|United States(US)|San Diego|
+66.80.230.13|root|12345|United States(US)|Pleasanton|
+65.129.195.174|support|support|United States(US)|Tucson|
+166.155.239.230|username|password|United States(US)|Atlanta|
+107.85.235.147|test|test|United States(US)|Arlington|
+108.170.115.35|support|support|United States(US)|Warwick|
+155.229.71.208|root|12345|United States(US)|Pleasanton|
+166.248.235.62|username|password|United States(US)|San Diego|
+166.130.19.197|username|password|United States(US)|Atlanta|
+66.220.252.10|support|support|United States(US)|Bellows Falls|
+206.125.145.103|admin|admin|United States(US)|Bigelow|
+206.125.79.87|support|support|United States(US)|Waldport|
+166.151.98.6|username|password|United States(US)|Atlanta|
+71.162.4.80|ubnt|ubnt|United States(US)|Bridgeville|
+155.254.9.162|system|OkwKcECs8qJP2Z|United States(US)|Whitehall|
+66.220.244.221|support|support|United States(US)|Bridgewater Corners|
+45.52.48.72|support|support|United States(US)|Belle Plaine|
+170.250.113.18|support|support|United States(US)|Miami|
+166.150.200.2|username|password|United States(US)|Atlanta|
+71.36.116.240|support|support|United States(US)|Portland|
+206.125.149.211|support|support|United States(US)|Wilmont|
+ï»¿117.200.219.129|root|root|United States(US)|Osage Beach|
+12.35.242.222|admin|default|United States(US)|Atwood|
+?118.168.63.215|user|user|United States(US)|Osage Beach|
+66.220.235.114|support|support|United States(US)|Wallingford|
+73.226.206.50|support|support|United States(US)|Jersey City|
+166.239.95.12|sconsole|12345|United States(US)|Alton|
+166.168.147.47|username|password|United States(US)|Alton|
+166.148.184.40|username|password|United States(US)|Atlanta|
+97.87.175.152|service|service42|United States(US)|Osage Beach|
+166.140.199.99|username|password|United States(US)|Atlanta|
+66.220.251.21|support|support|United States(US)|Bridgewater Corners|
+69.3.181.221|root|12345|United States(US)|Stanton|
+50.37.26.53|support|support|United States(US)|Gardnerville|
+166.248.157.151|username|password|United States(US)|San Diego|
+166.150.200.7|username|password|United States(US)|Atlanta|
+166.141.121.97|username|password|United States(US)|Atlanta|
+166.148.72.109|username|password|United States(US)|Atlanta|
+209.212.220.214|sconsole|12345|United States(US)|Buffalo|
+50.54.103.218|support|support|United States(US)|Logan|
+166.142.35.221|test|test|United States(US)|Atlanta|
+209.134.40.209|support|support|United States(US)|Middletown Springs|
+173.239.90.227|admin|default|United States(US)|Mesquite|
+50.1.91.254|support|support|United States(US)|Fort Bragg|
+64.139.48.169|root|12345|United States(US)|Oakland|
+166.246.57.187|username|password|United States(US)|Alton|
+66.76.251.131|support|support|United States(US)|Seminole|
+64.202.131.103|cisco||United States(US)|Lexington|
+172.250.73.185|support|support|United States(US)|Los Angeles|
+166.130.1.72|username|password|United States(US)|Atlanta|
+97.116.22.240|root|root|United States(US)|Minneapolis|
+75.100.94.205|support|support|United States(US)|Waunakee|
+64.184.41.4|user|user|United States(US)|Kendallville|
+166.165.233.109|username|password|United States(US)|Alton|
+166.168.201.199|username|password|United States(US)|Alton|
+64.184.39.171|user|user|United States(US)|Kimmell|
+166.168.147.49|username|password|United States(US)|Alton|
+166.142.201.30|username|password|United States(US)|Atlanta|
+166.130.109.205|username|password|United States(US)|Atlanta|
+162.216.206.182|admin|Titwoac99|United States(US)|Vicksburg|
+24.249.199.9|support|support|United States(US)|Destin|
+166.154.23.224|admin|admin|United States(US)|Atlanta|
+66.228.9.134|support|support|United States(US)|Richmond Hill|
+166.150.200.10|username|password|United States(US)|Atlanta|
+166.130.60.166|username|password|United States(US)|Atlanta|
+166.239.71.34|username|password|United States(US)|Alton|
+63.231.130.45|root|root|United States(US)|Minneapolis|
+166.139.103.138|username|password|United States(US)|Atlanta|
+45.52.250.81|support|support|United States(US)|Le Mars|
+170.250.128.135|admin|admin|United States(US)|Miami Beach|
+108.170.108.156|mailman|mailman|United States(US)|Fairfield|
+166.142.254.215|username|password|United States(US)|Atlanta|
+75.149.53.51|installer|installer|United States(US)|Soquel|
+166.130.61.77|username|password|United States(US)|Atlanta|
+66.220.235.209|support|support|United States(US)|Wallingford|
+50.33.26.192|support|support|United States(US)|Belle Plaine|
+166.168.201.198|username|password|United States(US)|Alton|
+166.142.240.24|username|password|United States(US)|Atlanta|
+207.145.98.31|root|12345|United States(US)|Long Beach|
+63.228.76.5|support|support|United States(US)|Arvada|
+209.212.214.250|support|support|United States(US)|Buffalo|
+66.220.228.101|support|support|United States(US)|Wallingford|
+66.255.245.66|root|@#$%^&*!()|United States(US)|Hopkinsville|
+66.220.240.158|support|support|United States(US)|Killington|
+108.35.176.36|root|calvin|United States(US)|Bloomfield|
+198.105.81.15|support|support|United States(US)|Palm Beach Gardens|
+166.151.134.212|username|password|United States(US)|Atlanta|
+208.180.217.178|ubnt|ubnt|United States(US)|Lubbock|
+166.142.101.231|username|password|United States(US)|Atlanta|
+166.248.81.139|admin|12wsDE34|United States(US)|San Diego|
+104.241.228.76|ubnt|ubnt|United States(US)|Altus|
+166.248.148.194|username|password|United States(US)|San Diego|
+70.100.194.75|support|support|United States(US)|Valley Head|
+12.27.141.100|installer|installer|United States(US)|Atwood|
+166.142.162.232|username|password|United States(US)|Atlanta|
+24.39.144.162|super|super|United States(US)|New York|
+166.168.201.196|username|password|United States(US)|Alton|
+24.249.199.19|support|support|United States(US)|Destin|
+209.134.38.185|support|support|United States(US)|Cuttingsville|
+74.46.252.67|support|support|United States(US)|Sacramento|
+50.103.122.190|support|support|United States(US)|Mackinaw|
+207.59.175.9|test|test|United States(US)|Knoxville|
+67.158.153.54|root|12345|United States(US)|Perry|
+166.154.243.46|test|password|United States(US)|Atlanta|
+216.227.22.99|support|support|United States(US)|Wewahitchka|
+166.151.98.5|username|password|United States(US)|Atlanta|
+166.239.73.21|username|password|United States(US)|Alton|
+50.0.156.91|support|support|United States(US)|Fort Bragg|
+173.167.46.61|admin|default|United States(US)|Madison|
+50.109.142.14|support|support|United States(US)|Marion|
+184.16.210.65|support|support|United States(US)|Garrett|
+50.102.14.165|support|support|United States(US)|Valparaiso|
+166.143.53.198|username|password|United States(US)|Atlanta|
+174.20.70.9|ubnt|ubnt|United States(US)|Minneapolis|
+184.101.105.160|support|support|United States(US)|Gilbert|
+216.18.255.178|admin|password|United States(US)|Byron Center|
+166.141.174.40|username|password|United States(US)|Atlanta|
+209.134.46.101|support|support|United States(US)|Hartland|
+184.96.220.52|support|support|United States(US)|Windsor|
+166.148.184.43|username|password|United States(US)|Atlanta|
+166.149.222.240|username|password|United States(US)|Atlanta|
+209.134.38.215|support|support|United States(US)|Cuttingsville|
+166.148.184.48|username|password|United States(US)|Atlanta|
+69.131.14.86|support|support|United States(US)|Saint Marys|
+66.220.252.240|support|support|United States(US)|Bellows Falls|
+173.212.36.185|manager|friend|United States(US)|Dobson|
+50.203.149.108|admin|admin|United States(US)|Elk Grove|
+12.163.110.54|lindsay|lastmile|United States(US)|Atwood|
+166.130.70.224|username|password|United States(US)|Atlanta|
+64.184.100.238|user|user|United States(US)|Kendallville|
+50.32.217.154|support|support|United States(US)|Blandon|
+166.149.99.215|username|password|United States(US)|Atlanta|
+166.140.199.143|username|password|United States(US)|Atlanta|
+209.134.41.51|support|support|United States(US)|Middletown Springs|
+166.248.81.138|admin|12wsDE34|United States(US)|San Diego|
+166.156.112.112||admin|United States(US)|Alton|
+104.137.186.201|support|support|United States(US)|Indianapolis|
+166.180.61.156|username|password|United States(US)|Alton|
+166.168.201.200|username|password|United States(US)|Alton|
+68.65.216.58|support|support|United States(US)|Vero Beach|
+104.238.84.196|support|support|United States(US)|Scottsdale|
+166.143.72.27|username|password|United States(US)|Atlanta|
+64.184.39.150|user|user|United States(US)|Kimmell|
+172.77.30.226|support|support|United States(US)|Mt Meadows Area|
+166.130.43.249|username|password|United States(US)|Atlanta|
+208.180.246.109|admin|admin|United States(US)|San Angelo|
+166.159.178.194|username|password|United States(US)|Alton|
+209.212.208.84|support|support|United States(US)|Buffalo|
+50.109.96.132|support|support|United States(US)|Bloomington|
+8.41.26.253|support|support|United States(US)|Seward|
+166.141.169.188|username|password|United States(US)|Atlanta|
+50.0.154.95|support|support|United States(US)|Mendocino|
+50.34.217.255|support|support|United States(US)|Arlington|
+32.213.126.160|root|changeme|United States(US)|Seymour|
+66.220.252.203|support|support|United States(US)|Bellows Falls|
+67.100.110.189|root|12345|United States(US)|New York|
+209.212.195.28|support|support|United States(US)|Buffalo|
+74.78.227.122|support|support|United States(US)|Castorland|
+50.126.136.121|support|support|United States(US)|Elk Grove|
+166.141.250.130|username|password|United States(US)|Atlanta|
+166.142.15.66|test|test|United States(US)|Atlanta|
+66.167.217.153|root|12345|United States(US)|Newbury Park|
+166.149.99.218|username|password|United States(US)|Atlanta|
+50.1.7.57|support|support|United States(US)|Sacramento|
+66.220.254.78|support|support|United States(US)|Pawlet|
+173.15.228.153|admin|default|United States(US)|Trenton|
+50.34.160.201|support|support|United States(US)|Arlington|
+166.148.118.51|username|password|United States(US)|Atlanta|
+24.35.160.71|support|support|United States(US)|Marshall|
+166.168.147.48|username|password|United States(US)|Alton|
+50.49.101.168|support|support|United States(US)|Pittsford|
+166.130.3.39|username|password|United States(US)|Atlanta|
+66.220.224.203|support|support|United States(US)|Grafton|
+206.125.86.112|support|support|United States(US)|Philomath|
+172.77.27.255|support|support|United States(US)|Mt Meadows Area|
+166.130.1.70|username|password|United States(US)|Atlanta|
+166.161.28.219|username|password|United States(US)|Alton|
+204.74.8.104|support|support|United States(US)|Buffalo|
+206.125.86.84|support|support|United States(US)|Philomath|
+170.250.251.130|admin|admin|United States(US)|Venice|
+50.0.156.128|support|support|United States(US)|Fort Bragg|
+166.164.224.241|username|password|United States(US)|Alton|
+166.140.178.85|username|password|United States(US)|Atlanta|
+ï»¿122.54.171.105|admin|1234|United States(US)|Osage Beach|

@@ -1,0 +1,45 @@
+104.238.83.196|nobody|nobody|Unknown (Unknown)|Unknown|Unknown|Unknown
+104.136.140.15|support|support159.65.226.101|Unknown (Unknown)|Unknown|Unknown|Unknown
+204.74.8.193|support|support|United States (US)|Unknown|Unknown|Unknown
+50.82.223.168|support|support|United States (US)|Illinois|Milan|61264
+173.239.90.75|ubnt|ubnt|United States (US)|Nevada|Mesquite|89027
+97.77.157.242|root|@#$%^&*!()|United States (US)|Texas|San Antonio|Unknown
+66.60.68.66|ubnt|ubnt|United States (US)|Texas|Dallas|75201
+69.38.209.114|admin|admin|United States (US)|California|Alameda|94501
+50.196.252.161|PlcmSpIp|PlcmSpIp|United States (US)|Illinois|Chicago|Unknown
+24.51.47.8|root|Deadstar!#%|United States (US)|Nebraska|Kearney|68847
+50.204.225.2|ubnt|ubnt|United States (US)|Unknown|Unknown|Unknown
+166.130.40.191|sshd||United States (US)|Unknown|Unknown|Unknown
+69.136.107.203|guest|guest|United States (US)|New Jersey|Jersey City|07305
+69.193.186.100|ubnt|ubnt|United States (US)|New York|New York|10001
+66.187.177.18|PlcmSpIp|PlcmSpIp|United States (US)|Georgia|Atlanta|30339
+162.216.232.129|admin||United States (US)|Unknown|Unknown|Unknown
+24.249.199.26|support|support24.249.199.19|United States (US)|Unknown|Unknown|Unknown
+24.140.0.78|installer|installer|United States (US)|Ohio|Massillon|Unknown
+66.76.106.13|installer|installer|United States (US)|Texas|Tyler|Unknown
+166.249.150.6|sconsole|12345|United States (US)|Unknown|Unknown|Unknown
+108.2.205.10|monitor|monitor|United States (US)|Unknown|Unknown|Unknown
+8.40.56.141|root|@#$%^&*!|United States (US)|Unknown|Unknown|Unknown
+173.197.172.173|admin|default|United States (US)|Unknown|Unknown|Unknown
+142.54.81.234|root|@#$%^&*!|United States (US)|New Jersey|Oakhurst|07755
+198.46.141.102|ftpuser|test123|United States (US)|New York|Buffalo|14221
+159.65.226.101|git|git|United States (US)|Texas|Dallas|75231
+75.114.228.90|support|support|United States (US)|Michigan|Livonia|48154
+50.236.46.179|root|@#$%^&*!()|United States (US)|Unknown|Unknown|Unknown
+198.46.141.98|ftpuser|test123|United States (US)|New York|Buffalo|14221
+71.162.4.80|ubnt|ubnt|United States (US)|Pennsylvania|Bridgeville|15017
+12.35.242.222|admin|default|United States (US)|Unknown|Unknown|Unknown
+97.87.175.152|service|service42|United States (US)|Missouri|Osage Beach|65065
+24.249.199.9|support|support|United States (US)|Unknown|Unknown|Unknown
+104.241.228.76|ubnt|ubnt|Unknown (Unknown)|Unknown|Unknown|Unknown
+12.27.141.100|installer|installer|United States (US)|Unknown|Unknown|Unknown
+162.216.206.182|admin|Titwoac99|United States (US)|Mississippi|Vicksburg|39183
+24.249.199.19|support|support|United States (US)|Unknown|Unknown|Unknown
+173.167.46.61|admin|default|United States (US)|California|Fresno|93710
+12.163.110.54|lindsay|lastmile|United States (US)|Unknown|Unknown|Unknown
+104.137.186.201|support|support|Unknown (Unknown)|Unknown|Unknown|Unknown
+166.248.81.138|admin|12wsDE34|United States (US)|Unknown|Unknown|Unknown
+166.156.112.112||admin|United States (US)|Unknown|Unknown|Unknown
+208.180.246.109|admin|admin|United States (US)|Texas|San Angelo|Unknown
+173.15.228.153|admin|default|United States (US)|Michigan|Milford|Unknown
+170.250.251.130|admin|admin|United States (US)|Illinois|Saint Charles|60174
